@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "grid mary"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practica grid"
+	}
+}
